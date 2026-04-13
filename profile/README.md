@@ -18,9 +18,9 @@ Learn about RuyiSDK starting from the [RuyiSDK official website](https://ruyisdk
 
 If you want to install the compilation toolchain, debugging tools, simulators, and other software that support RISC-V, you can start with [downloading](https://ruyisdk.org/download/) and using ruyi.
 
-If you want to install an image for your RISC-V development board, you can use the `ruyi device provision` command to view the RISC-V development boards and the currently available different operating systems for them. This program will guide you through the device selection, system image selection, and installation. 
+If you want to install an image for your RISC-V development board, you can use the `ruyi device provision` command to view the RISC-V development boards and the currently available different operating systems for them. This program will guide you through the device selection, system image selection, and installation.
 
-If your device is not in the supported list, you can submit your feedback in [Discussions](https://github.com/ruyisdk/ruyisdk-website/discussions).
+If your device is not in the supported list, you can submit your feedback in [ruyisdk.cn](https://ruyisdk.cn/) or [Discussions](https://github.com/ruyisdk/ruyisdk/discussions).
 
 If you want to learn more about the adaptation of RISC-V operating systems to RISC-V development boards, you can check the [Operating System Support Matrix](https://github.com/ruyisdk/support-matrix/).
 
@@ -34,9 +34,9 @@ More content can be found in the [RuyiSDK BiWeekly Report](https://github.com/ru
 
 ## Usage
 
-The ruyi tool currently supports x86_64, aarch64, and riscv64 architectures, and supports various Linux distributions such as Debian ([RevyOS](https://github.com/revyos)), Ubuntu, openEuler, Fedora, ArchLinux, Gentoo, and openKylin, it has good architecture compatibility and platform compatibility, please install and use with confidence.
+The ruyi tool currently supports x86_64, aarch64, and riscv64 architectures, and supports various Linux distributions such as [openRuyi](https://github.com/openRuyi-Project/openRuyi), Debian ([RevyOS](https://github.com/revyos)), Ubuntu, openEuler, Fedora, ArchLinux, Gentoo, and openKylin, it has good architecture compatibility and platform compatibility, please install and use with confidence.
 
-More ruyi usage [documentation](https://ruyisdk.github.io/docs/zh/ruyi/).
+More ruyi usage [documentation](https://ruyisdk.org/en/docs/Package-Manager/).
 
 ## Contact
 
@@ -44,3 +44,9 @@ Friends interested in RuyiSDK can follow and join us through the following chann
 
 - Follow the WeChat public account: RUYISDK
 - Send an email to [contact@ruyisdk.cn](mailto:contact@ruyisdk.cn)
+
+## Related Projects
+
+* [RuyiAI](https://github.com/RuyiAI-Stack) AI System Software Stack for RISC-V Architecture.
+* [openRuyi](https://github.com/openRuyi-Project) An open, rolling Linux distribution project for RISC-V.
+* [RVCK](https://github.com/RVCK-Project/rvck) RISC-V Common Kernel Project.
